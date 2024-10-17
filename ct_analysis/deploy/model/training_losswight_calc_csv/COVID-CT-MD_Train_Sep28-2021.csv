@@ -1,0 +1,183 @@
+Index,Diagnosis,Folder,Patient Gender,Patient Age,Weight,Clinical characteristics ,Surgery,Follow-up,PCR,p_age,ct_path,ct_label
+235,Normal,normal005,M,023Y,65.0,"Dyspnea, Cyanosis upper limbs",Yes,,,23,/Normal/normal005.nii.gz,0
+190,CAP,cap020,F,077Y,66.0,Lung cancer,"Chemotherapy, Surgery ",,,77,/CAP/cap020.nii.gz,0
+88,COVID-19,P088,M,051Y,85.0,Cough,,Hospitalized,Positive,51,/COVID-19/P088.nii.gz,1
+99,COVID-19,P099,M,057Y,73.0,"Dyspnea, Cough, History of colon cancer",Chemotherapy,Uneventful,,57,/COVID-19/P099.nii.gz,1
+174,CAP,cap004,M,071Y,55.0,"Cough, Bronchodilator",,,,71,/CAP/cap004.nii.gz,0
+281,Normal,normal051,M,026Y,85.0,COVID-19 check-up,Yes,,,26,/Normal/normal051.nii.gz,0
+229,CAP,cap059,M,076Y,70.0,"Fever, Cough, Prostate cancer",No,,,76,/CAP/cap059.nii.gz,0
+17,COVID-19,P018,F,066Y,75.0,Cough,,,,66,/COVID-19/P018.nii.gz,1
+19,COVID-19,P020,F,047Y,78.0,COVID-19 suspected ,No,,,47,/COVID-19/P020.nii.gz,1
+78,COVID-19,P078,F,047Y,65.0,COVID-19 suspected ,,Uneventful,,47,/COVID-19/P078.nii.gz,1
+250,Normal,normal020,F,058Y,62.0,"Dyspnea, Abdominal disease ",No,,,58,/Normal/normal020.nii.gz,0
+105,COVID-19,P105,F,052Y,50.0,Fever,No,Uneventful,,52,/COVID-19/P105.nii.gz,1
+54,COVID-19,P054,M,040Y,80.0,Sinusitis,Polyp,,,40,/COVID-19/P054.nii.gz,1
+227,CAP,cap057,F,026Y,55.0,"Fever, Headache, Rigors",No,,,26,/CAP/cap057.nii.gz,0
+293,Normal,normal063,F,059Y,75.0,Cough,Yes,,,59,/Normal/normal063.nii.gz,0
+110,COVID-19,P110,M,086Y,65.0,Cough,No,Death,,86,/COVID-19/P110.nii.gz,1
+159,COVID-19,P158,F,062Y,75.0,Myalgia ,No,,,62,/COVID-19/P158.nii.gz,1
+270,Normal,normal040,F,035Y,52.0,COVID-19 check-up,,,,35,/Normal/normal040.nii.gz,0
+9,COVID-19,P010,F,061Y,55.0,"Fever, Myalgia",No,,,61,/COVID-19/P010.nii.gz,1
+260,Normal,normal030,F,033Y,63.0,"Renal mass, Check-up for surgery",No,,,33,/Normal/normal030.nii.gz,0
+73,COVID-19,P073,M,037Y,90.0,Dyspnea,No,Uneventful,,37,/COVID-19/P073.nii.gz,1
+152,COVID-19,P152,M,065Y,65.0,Cough,No,,,65,/COVID-19/P152.nii.gz,1
+25,COVID-19,P026,M,042Y,85.0,"Cough, Dyspnea",,,,42,/COVID-19/P026.nii.gz,1
+156,COVID-19,P155,M,046Y,70.0,"Fever, Chills",No,Uneventful,,46,/COVID-19/P155.nii.gz,1
+173,CAP,cap003,F,056Y,70.0,"Headache, Dyspnea, Cough",No,,,56,/CAP/cap003.nii.gz,0
+169,COVID-19,P168,M,068Y,102.0,"Fever,Cough",No,Hospitalized,,68,/COVID-19/P168.nii.gz,1
+60,COVID-19,P060,M,052Y,75.0,Cough,No,,,52,/COVID-19/P060.nii.gz,1
+128,COVID-19,P128,F,048Y,75.0,"Cough, Fever",No,,,48,/COVID-19/P128.nii.gz,1
+285,Normal,normal055,F,018Y,58.0,"Cough, Myalgia , Loss of appetite",Yes,,,18,/Normal/normal055.nii.gz,0
+40,COVID-19,P041,M,035Y,93.0,"Abdominal pain, Nausea, Fever, Chills",No,,,35,/COVID-19/P041.nii.gz,1
+164,COVID-19,P163,M,050Y,95.0,Fever,Kidney transplantation,,,50,/COVID-19/P163.nii.gz,1
+104,COVID-19,P104,F,052Y,70.0,Cough,No,,,52,/COVID-19/P104.nii.gz,1
+8,COVID-19,P009,M,046Y,75.0,Cough,,Uneventful,,46,/COVID-19/P009.nii.gz,1
+47,COVID-19,P047,M,041Y,78.0,Dyspnea,No,,,41,/COVID-19/P047.nii.gz,1
+85,COVID-19,P085,M,045Y,80.0,Productive cough,,Uneventful,,45,/COVID-19/P085.nii.gz,1
+209,CAP,cap039,M,044Y,67.0,"Dizziness, Dyspnea",Yes,,,44,/CAP/cap039.nii.gz,0
+302,Normal,normal072,M,031Y,105.0,Dyspnea,,,,31,/Normal/normal072.nii.gz,0
+289,Normal,normal059,M,027Y,97.0,"Dyspnea, Cough",Yes,,,27,/Normal/normal059.nii.gz,0
+81,COVID-19,P081,M,060Y,78.0,Dyspnea,No,Uneventful,,60,/COVID-19/P081.nii.gz,1
+147,COVID-19,P147,M,067Y,70.0,Cough,No,,,67,/COVID-19/P147.nii.gz,1
+275,Normal,normal045,F,031Y,60.0,Chest pain,,,,31,/Normal/normal045.nii.gz,0
+243,Normal,normal013,M,041Y,78.0,Productive cough,No,,,41,/Normal/normal013.nii.gz,0
+21,COVID-19,P022,F,038Y,80.0,Dyspnea,No,,,38,/COVID-19/P022.nii.gz,1
+67,COVID-19,P067,F,050Y,80.0,"Cough, Dyspnea",No,Hospitalized,,50,/COVID-19/P067.nii.gz,1
+41,COVID-19,P042,M,041Y,90.0,"Cough, Fever",No,,,41,/COVID-19/P042.nii.gz,1
+11,COVID-19,P012,M,039Y,95.0,Cough,No,Uneventful,,39,/COVID-19/P012.nii.gz,1
+108,COVID-19,P108,F,028Y,59.0,Dyspnea,No,,,28,/COVID-19/P108.nii.gz,1
+28,COVID-19,P029,M,074Y,60.0,Cough,No,Uneventful,,74,/COVID-19/P029.nii.gz,1
+268,Normal,normal038,M,033Y,80.0,"Chest pain,Fever, Cough",No,,,33,/Normal/normal038.nii.gz,0
+249,Normal,normal019,F,051Y,70.0,"Asthma, Fever, Cough",No,,,51,/Normal/normal019.nii.gz,0
+290,Normal,normal060,M,036Y,73.0,"Cough, Dyspnea ",Yes,,,36,/Normal/normal060.nii.gz,0
+233,Normal,normal003,M,026Y,97.0,Cough,Yes,,,26,/Normal/normal003.nii.gz,0
+301,Normal,normal071,F,043Y,82.0,Check-up before uterus surgery,Yes,,,43,/Normal/normal071.nii.gz,0
+49,COVID-19,P049,M,072Y,80.0,"Cough, Headache",No,Uneventful,,72,/COVID-19/P049.nii.gz,1
+206,CAP,cap036,M,084Y,54.0,"Asthma, Dyspnea",Yes,,,84,/CAP/cap036.nii.gz,0
+32,COVID-19,P033,M,048Y,88.0,Fever,No,Hospitalized,Positive,48,/COVID-19/P033.nii.gz,1
+103,COVID-19,P103,F,069Y,60.0,"Cough, Tuberculosis suspected",,Uneventful,,69,/COVID-19/P103.nii.gz,1
+18,COVID-19,P019,M,042Y,71.0,"Cough, Allergy",No,Uneventful,,42,/COVID-19/P019.nii.gz,1
+296,Normal,normal066,M,030Y,70.0,"Dyspnea, Cough, Loss of appetite, Chest pain",Yes,,,30,/Normal/normal066.nii.gz,0
+36,COVID-19,P037,F,060Y,83.0,Cough,No,"Hospitalized, Death",Positive,60,/COVID-19/P037.nii.gz,1
+48,COVID-19,P048,F,048Y,75.0,"Fever, Chills",,Uneventful,,48,/COVID-19/P048.nii.gz,1
+170,COVID-19,P169,M,075Y,50.0,Dyspnea,Open-heart surgery,,,75,/COVID-19/P169.nii.gz,1
+37,COVID-19,P038,M,041Y,85.0,"Chest pain, Cough",No,Uneventful,,41,/COVID-19/P038.nii.gz,1
+82,COVID-19,P082,F,047Y,57.0,"Cough, Fever, Chills",,Uneventful,,47,/COVID-19/P082.nii.gz,1
+124,COVID-19,P124,M,050Y,103.0,Dyspnea,No,,,50,/COVID-19/P124.nii.gz,1
+13,COVID-19,P014,F,047Y,90.0,Cough,No,,,47,/COVID-19/P014.nii.gz,1
+46,COVID-19,P046,F,037Y,75.0,"Dyspnea, Fever",No,,,37,/COVID-19/P046.nii.gz,1
+12,COVID-19,P013,M,059Y,82.0,Cough,No,,,59,/COVID-19/P013.nii.gz,1
+188,CAP,cap018,F,058Y,75.0,History of Asthma ,No,,,58,/CAP/cap018.nii.gz,0
+264,Normal,normal034,F,051Y,88.0,"Lung cancer, History of cough and Wheezing  ",Yes,,,51,/Normal/normal034.nii.gz,0
+160,COVID-19,P159,M,042Y,78.0,Dyspnea,No,,,42,/COVID-19/P159.nii.gz,1
+291,Normal,normal061,F,051Y,74.0,Hospitalization check-up,,,,51,/Normal/normal061.nii.gz,0
+278,Normal,normal048,M,034Y,87.0,COVID-19 check-up,No,,,34,/Normal/normal048.nii.gz,0
+116,COVID-19,P116,M,037Y,75.0,"Cough, Fever, Loss of appetite",,,,37,/COVID-19/P116.nii.gz,1
+50,COVID-19,P050,M,038Y,80.0,Chest pain,No,Uneventful,,38,/COVID-19/P050.nii.gz,1
+145,COVID-19,P145,F,047Y,,,,,,47,/COVID-19/P145.nii.gz,1
+265,Normal,normal035,F,033Y,56.0,"Fever, Cough",No,,,33,/Normal/normal035.nii.gz,0
+120,COVID-19,P120,M,074Y,85.0,Cough,No,,,74,/COVID-19/P120.nii.gz,1
+202,CAP,cap032,M,083Y,80.0,"Low blood sodium, Disc infection",Pacemaker,,,83,/CAP/cap032.nii.gz,0
+66,COVID-19,P066,M,033Y,90.0,Fever,,,,33,/COVID-19/P066.nii.gz,1
+138,COVID-19,P138,F,062Y,80.0,"Cough, Fever",No,,,62,/COVID-19/P138.nii.gz,1
+193,CAP,cap023,M,059Y,65.0,Productive cough,No,,,59,/CAP/cap023.nii.gz,0
+208,CAP,cap038,M,094Y,56.0,"Fever, Cough",Yes,,,94,/CAP/cap038.nii.gz,0
+114,COVID-19,P114,F,065Y,90.0,"Cough, COVID-19 suspected",No,,,65,/COVID-19/P114.nii.gz,1
+64,COVID-19,P064,M,083Y,80.0,COVID-19 suspected ,,,,83,/COVID-19/P064.nii.gz,1
+306,Normal,normal076,M,030Y,72.0,"Chest pain, Cough, Loss of appetite ",Yes,,,30,/Normal/normal076.nii.gz,0
+61,COVID-19,P061,M,055Y,65.0,"Fatigue, Cough, History of myasthenia gravis",,"Hospitalized, Death",Positive,55,/COVID-19/P061.nii.gz,1
+220,CAP,cap050,M,025Y,70.0,"Cough, Hemoptysis",,,,25,/CAP/cap050.nii.gz,0
+39,COVID-19,P040,M,039Y,75.0,"Cough, Fever, Chills",No,,,39,/COVID-19/P040.nii.gz,1
+184,CAP,cap014,M,093Y,70.0,Unsteadiness ,No,,,93,/CAP/cap014.nii.gz,0
+217,CAP,cap047,M,034Y,65.0,Abdominal assessment  ,,,,34,/CAP/cap047.nii.gz,0
+276,Normal,normal046,F,080Y,72.0,Check-up before cardiac assessment and hospitalization ,"Heart Surgery, Heart battery ",,,80,/Normal/normal046.nii.gz,0
+205,CAP,cap035,F,068Y,71.0,"Cough, Fever",No,,,68,/CAP/cap035.nii.gz,0
+218,CAP,cap048,F,022Y,60.0,Productive cough,Yes,,,22,/CAP/cap048.nii.gz,0
+157,COVID-19,P156,F,041Y,97.0,Dyspnea,No,,,41,/COVID-19/P156.nii.gz,1
+151,COVID-19,P151,M,059Y,75.0,Abdominal pain,No,Uneventful,Positive,59,/COVID-19/P151.nii.gz,1
+10,COVID-19,P011,F,015Y,80.0,Cough,No,Uneventful,,15,/COVID-19/P011.nii.gz,1
+102,COVID-19,P102,M,054Y,110.0,Cough,No,Uneventful,,54,/COVID-19/P102.nii.gz,1
+259,Normal,normal029,F,050Y,95.0,Dyspnea,,,,50,/Normal/normal029.nii.gz,0
+115,COVID-19,P115,F,042Y,75.0,"Fever, Myalgia, Cough, Dyspnea",No,,,42,/COVID-19/P115.nii.gz,1
+133,COVID-19,P133,M,074Y,70.0,Chills ,No,,,74,/COVID-19/P133.nii.gz,1
+191,CAP,cap021,M,012Y,50.0,"Cough, Sinusitis",No,,,12,/CAP/cap021.nii.gz,0
+228,CAP,cap058,F,059Y,70.0,Fever,Yes,,,59,/CAP/cap058.nii.gz,0
+199,CAP,cap029,F,078Y,87.0,Productive cough,No,,,78,/CAP/cap029.nii.gz,0
+230,CAP,cap060,F,056Y,55.0,"Fever, Cough",No,,,56,/CAP/cap060.nii.gz,0
+101,COVID-19,P101,M,040Y,94.0,"Fever, Cough, Myalgia ",No,Uneventful,,40,/COVID-19/P101.nii.gz,1
+176,CAP,cap006,M,039Y,60.0,"Flu-like symptoms, Heart transplantation candidate",ICD,,,39,/CAP/cap006.nii.gz,0
+4,COVID-19,P005,M,029Y,78.0,"Cough, Fatigue",No,Uneventful,,29,/COVID-19/P005.nii.gz,1
+304,Normal,normal074,M,040Y,97.0,Chest pain ,Yes,,,40,/Normal/normal074.nii.gz,0
+219,CAP,cap049,F,032Y,55.0,"Fever, Cough",No,,,32,/CAP/cap049.nii.gz,0
+300,Normal,normal070,M,060Y,77.0,Dyspnea,No,,,60,/Normal/normal070.nii.gz,0
+24,COVID-19,P025,F,044Y,70.0,Cough,No,,,44,/COVID-19/P025.nii.gz,1
+79,COVID-19,P079,M,071Y,81.0,"Cough, Fever, History of Flu-like symptoms",No,Uneventful,,71,/COVID-19/P079.nii.gz,1
+136,COVID-19,P136,F,068Y,83.0,Fever,No,,,68,/COVID-19/P136.nii.gz,1
+34,COVID-19,P035,M,049Y,75.0,Cough,,Uneventful,,49,/COVID-19/P035.nii.gz,1
+171,CAP,cap001,M,062Y,50.0,Dyspnea,Throat surgery,,,62,/CAP/cap001.nii.gz,0
+68,COVID-19,P068,M,051Y,38.0,History of rectal cancer,"Chemotherapy, Radiotherapy ",,,51,/COVID-19/P068.nii.gz,1
+143,COVID-19,P143,F,058Y,65.0,"Chest pain, Cough",No,,,58,/COVID-19/P143.nii.gz,1
+248,Normal,normal018,M,039Y,77.0,"Known case of Sarcoidosis, Follow-up",Yes,,,39,/Normal/normal018.nii.gz,0
+204,CAP,cap034,F,038Y,80.0,Productive cough,No,,,38,/CAP/cap034.nii.gz,0
+162,COVID-19,P161,F,040Y,65.0,Dyspnea ,No,,,40,/COVID-19/P161.nii.gz,1
+158,COVID-19,P157,M,037Y,69.0,"Fever, Cough",No,,Positive,37,/COVID-19/P157.nii.gz,1
+153,COVID-19,P153,F,070Y,80.0,Anosmia,No,,,70,/COVID-19/P153.nii.gz,1
+214,CAP,cap044,F,040Y,78.0,"Fever, Cough",Yes,,,40,/CAP/cap044.nii.gz,0
+137,COVID-19,P137,M,057Y,74.0,"Fever, History of Parkinson",No,Death,,57,/COVID-19/P137.nii.gz,1
+119,COVID-19,P119,M,048Y,88.0,Cough,,,,48,/COVID-19/P119.nii.gz,1
+84,COVID-19,P084,M,062Y,64.0,"Loss of weight, Loss of appetite, Fever",,Uneventful,,62,/COVID-19/P084.nii.gz,1
+292,Normal,normal062,M,047Y,80.0,"Dyspnea, Cough ",Yes,,,47,/Normal/normal062.nii.gz,0
+126,COVID-19,P126,F,072Y,100.0,Headache,No,,Positive,72,/COVID-19/P126.nii.gz,1
+92,COVID-19,P092,M,065Y,85.0,Cough,No,,,65,/COVID-19/P092.nii.gz,1
+93,COVID-19,P093,M,055Y,85.0,Cough,,Uneventful,Positive,55,/COVID-19/P093.nii.gz,1
+15,COVID-19,P016,M,066Y,75.0,Dyspnea,No,,,66,/COVID-19/P016.nii.gz,1
+2,COVID-19,P003,M,068Y,90.0,Cough,,Hospitalized,,68,/COVID-19/P003.nii.gz,1
+284,Normal,normal054,M,032Y,67.0,COVID-19 check-up,Yes,,,32,/Normal/normal054.nii.gz,0
+109,COVID-19,P109,F,059Y,60.0,"Productive cough, Myalgia, Loss of appetite",,Uneventful,,59,/COVID-19/P109.nii.gz,1
+207,CAP,cap037,M,065Y,65.0,"Lymph cancer, Cough",Chemotherapy,,,65,/CAP/cap037.nii.gz,0
+236,Normal,normal006,F,030Y,58.0,"Chest pain, History of cold",,,,30,/Normal/normal006.nii.gz,0
+181,CAP,cap011,M,073Y,70.0,"Cough, Fever",No,,,73,/CAP/cap011.nii.gz,0
+70,COVID-19,P070,M,031Y,70.0,"Fever, Cough",,Hospitalized,Positive,31,/COVID-19/P070.nii.gz,1
+113,COVID-19,P113,M,048Y,72.0,"Anosmia, Chills",No,,,48,/COVID-19/P113.nii.gz,1
+269,Normal,normal039,F,070Y,70.0,Check-up before disk surgery ,,,,70,/Normal/normal039.nii.gz,0
+87,COVID-19,P087,F,069Y,90.0,"Dyspnea, COVID-19 suspected ",No,Uneventful,,69,/COVID-19/P087.nii.gz,1
+0,COVID-19,P001,M,039Y,80.0,"Dyspnea, Cough, Fever",,,,39,/COVID-19/P001.nii.gz,1
+131,COVID-19,P131,M,042Y,75.0,Cough,No,Uneventful,,42,/COVID-19/P131.nii.gz,1
+141,COVID-19,P141,M,039Y,84.0,"Fever, Cough",No,,,39,/COVID-19/P141.nii.gz,1
+211,CAP,cap041,M,087Y,70.0,"Cough, Fever, High ESR",Yes,,,87,/CAP/cap041.nii.gz,0
+201,CAP,cap031,M,071Y,71.0,Fever,,,,71,/CAP/cap031.nii.gz,0
+38,COVID-19,P039,M,040Y,96.0,Productive cough,Heart stent,,,40,/COVID-19/P039.nii.gz,1
+142,COVID-19,P142,M,033Y,100.0,COVID-19 suspected,No,Uneventful,Positive,33,/COVID-19/P142.nii.gz,1
+75,COVID-19,P075,M,044Y,104.0,"Cough, Known case of scleroderma",No,,,44,/COVID-19/P075.nii.gz,1
+44,COVID-19,P044,M,038Y,75.0,"Dyspnea, Fever",No,Uneventful,,38,/COVID-19/P044.nii.gz,1
+271,Normal,normal041,M,033Y,108.0,Check-up,No,,,33,/Normal/normal041.nii.gz,0
+146,COVID-19,P146,F,054Y,82.0,Cough,No,,,54,/COVID-19/P146.nii.gz,1
+76,COVID-19,P076,F,034Y,70.0,"Cough, Dyspnea",No,Uneventful,,34,/COVID-19/P076.nii.gz,1
+256,Normal,normal026,M,041Y,60.0,Cough,Yes,,,41,/Normal/normal026.nii.gz,0
+189,CAP,cap019,M,067Y,50.0,History of Lung infection,No,,,67,/CAP/cap019.nii.gz,0
+122,COVID-19,P122,M,069Y,95.0,"Cough, Dyspnea",No,,,69,/COVID-19/P122.nii.gz,1
+272,Normal,normal042,F,046Y,110.0,"Metastatic colon cancer, Check-up for hospitalization","Colon surgery, Chemotherapy, Radiotherapy ",,,46,/Normal/normal042.nii.gz,0
+31,COVID-19,P032,F,030Y,60.0,Dyspnea,No,Hospitalized,,30,/COVID-19/P032.nii.gz,1
+274,Normal,normal044,F,038Y,60.0,"Cough, Chest pain, Loss of appetite",No,,,38,/Normal/normal044.nii.gz,0
+241,Normal,normal011,M,032Y,104.0,Dyspnea,Yes,,,32,/Normal/normal011.nii.gz,0
+225,CAP,cap055,F,051Y,55.0,Dyspnea,No,,,51,/CAP/cap055.nii.gz,0
+210,CAP,cap040,M,029Y,62.0,"Fever, Cough, Dyspnea, Case of aplastic anemia",No,,,29,/CAP/cap040.nii.gz,0
+234,Normal,normal004,F,053Y,59.0,"Asthma, Airway infection",No,,,53,/Normal/normal004.nii.gz,0
+72,COVID-19,P072,M,047Y,80.0,Flu-like symptoms,No,Uneventful,,47,/COVID-19/P072.nii.gz,1
+179,CAP,cap009,M,083Y,47.0,Dyspnea,No,,,83,/CAP/cap009.nii.gz,0
+45,COVID-19,P045,F,033Y,70.0,Cough,No,,,33,/COVID-19/P045.nii.gz,1
+251,Normal,normal021,F,036Y,50.0,"Dyspnea, Edema",Yes,,,36,/Normal/normal021.nii.gz,0
+94,COVID-19,P094,M,059Y,96.0,"Fatigue, Cough, Sweating",,Hospitalized,,59,/COVID-19/P094.nii.gz,1
+261,Normal,normal031,F,060Y,85.0,"Sinus Infection, Dyspnea",Yes,,,60,/Normal/normal031.nii.gz,0
+222,CAP,cap052,F,046Y,53.0,Headache ,No,,,46,/CAP/cap052.nii.gz,0
+231,Normal,normal001,M,049Y,82.0,Colon cancer,Colon surgery,,,49,/Normal/normal001.nii.gz,0
+134,COVID-19,P134,F,049Y,65.0,"Cough, Fever, COVID-19 suspected ",No,,,49,/COVID-19/P134.nii.gz,1
+203,CAP,cap033,F,054Y,75.0,Fever,Gallbladder ,,,54,/CAP/cap033.nii.gz,0
+74,COVID-19,P074,F,054Y,80.0,"Fever, Cough, Dyspnea",No,Uneventful,,54,/COVID-19/P074.nii.gz,1
+123,COVID-19,P123,F,044Y,100.0,Cough,No,,,44,/COVID-19/P123.nii.gz,1
+283,Normal,normal053,M,038Y,113.0,COVID-19 check-up,No,,,38,/Normal/normal053.nii.gz,0
+280,Normal,normal050,M,029Y,87.0,"Dyspnea, Chest pain",Dyspnea,,,29,/Normal/normal050.nii.gz,0
+267,Normal,normal037,M,054Y,100.0,Check-up for surgery ,No,,,54,/Normal/normal037.nii.gz,0
+239,Normal,normal009,M,062Y,85.0,SCC cancer,No,,,62,/Normal/normal009.nii.gz,0
+279,Normal,normal049,M,031Y,80.0,COVID-19 check-up,,,,31,/Normal/normal049.nii.gz,0
+200,CAP,cap030,M,083Y,75.0,Productive cough,Yes,,,83,/CAP/cap030.nii.gz,0

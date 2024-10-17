@@ -1,0 +1,35 @@
+{
+"DATASET_TO_RUN_ON"        : "bimcv",
+"NAME_TO_SAVE"             : "MODEL-bimcv-Dataset-Test-bimcv",
+"PATH_TO_SAVE_LOGS"        : "/data2/usr/ft42/CVIT/DeployScript/v5/Dec18_SGD_Exponential_Decay/Logs/",
+"INFERENCE_MODE"           : "TEST_WLBL",
+"COMPUTE_AUC"              : "True",
+"INPUT_FORMAT"             : "tfrecords",
+"NIFTI_EXTN"               : ".nii.gz",
+"TF_EXTN"                  : ".tfrecords",
+"INPUT_FROM"               : "Directory",
+"IMAGE_PATH_INDEX_NAME"    : "altair_ct_path",
+"LBL_INDEX_NAME"           : "ct_label",
+"ROI_CSV"                  : "IO_csv/COVID-CT-MD_Test_Sep28-2021-Altair.csv",
+"ROI_DIRECTORY"            : "bimcv",
+
+"//" : "Pre-processing parameter",
+
+"RESAMPLING"               : [2.0, 2.0, 5.0],
+"MASKF_FLAG"               : "False",
+"HU_SLIPING"               : [-1000.0,500.0],
+"FLIPING_IMG"              : "False",
+
+
+"//" : "Patch Extraction parameters",
+"PATCH_SIZE"               : [96,160,160],
+"PADDING_CONSTENT_VALUE"   : -1,
+
+"//": "Model Hyper-perameter",
+"NUMBER_OF_CLASSES"        : 1,
+"INPUT_PATCH_SIZE"         : [96,160,160, 1],
+"TRAIN_NUM_RES_UNIT"       : 1,
+"TRAIN_NUM_FILTERS"        : [8,16,32],
+"TRAIN_STRIDES"            : [[1, 1, 1],[2, 2, 2],[2, 2, 2]],
+"MODEL_PATH"               : "/path/to/modelweight/bimcv_Resnet3D_0.92_110.h5"
+}
