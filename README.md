@@ -1,20 +1,22 @@
-# Reality check: Virtual imaging to validate radiology AI reproducibility and unearth clinical insights – A ReviCOVID-19 case study
+# The Utility of the Virtual Imaging Trials Methodology for Objective Characterization of AI Systems and Training Data
 
-Using COVID-19 as a case study, this virtual imaging trial study verified that radiology AI models often
-suffer from a reproducibility crisis.
+**Purpose:** The credibility of Artificial Intelligence (AI) models for medical imaging continues to be a challenge, affected by the diversity of models, the data used to train the models, and applicability of their combination to produce reproducible results for new data. In this work, we aimed to explore whether emerging Virtual Imaging Trials (VIT) methodologies can provide an objective resource to approach this challenge.
+**Approach:** The study was conducted for the case example of COVID-19 diagnosis using clinical and virtual computed tomography (CT) and chest radiography (CXR) processed with convolutional neural networks. Multiple AI models were developed and tested using 3D ResNet-like and 2D EfficientNetv2 architectures across diverse datasets.
+**Results:** Model performance was evaluated using the area under the curve (AUC) and the DeLong method for AUC confidence intervals. The models trained on the most diverse datasets showed the highest external testing performance, with AUC values ranging from 0.73-0.76 for CT and 0.70-0.73 for CXR. Internal testing yielded higher AUC values (0.77-0.85 for CT and 0.77-1.0 for CXR), highlighting a substantial drop in performance during external validation, which underscores the importance of diverse and comprehensive training and testing data. Most notably, the VIT approach provided objective assessment of the utility of diverse models and datasets, while offering insight into the influence of dataset characteristics, patient factors, and imaging physics on AI efficacy. **Conclusions:** The VIT approach enhances model transparency and reliability, offering nuanced insights into the factors driving AI performance and bridging the gap between experimental and clinical settings.
 
 ### Citation
 ```ruby
-@article{tushar2023data,
-  title={Data diversity and virtual imaging in AI-based diagnosis: A case study based on COVID-19},
-  author={Tushar, Fakrul Islam and Dahal, Lavsen and Sotoudeh-Paima, Saman and Abadi, Ehsan and Segars, W Paul and Samei, Ehsan and Lo, Joseph Y},
-  journal={arXiv preprint arXiv:2308.09730},
-  year={2023}
+@misc{tushar2025utilityvirtualimagingtrials,
+      title={The Utility of the Virtual Imaging Trials Methodology for Objective Characterization of AI Systems and Training Data}, 
+      author={Fakrul Islam Tushar and Lavsen Dahal and Saman Sotoudeh-Paima and Ehsan Abadi and W. Paul Segars and Ehsan Samei and Joseph Y. Lo},
+      year={2025},
+      eprint={2308.09730},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2308.09730}, 
 }
 ```
-```ruby
-Tushar, Fakrul Islam, et al. "Data diversity and virtual imaging in AI-based diagnosis: A case study based on COVID-19." arXiv preprint arXiv:2308.09730 (2023).
-```
+
 
 
 
@@ -23,8 +25,7 @@ Tushar, Fakrul Islam, et al. "Data diversity and virtual imaging in AI-based dia
 This study ustilized a large cohort of open-access clinical CT and CXR for model developement and evaluation alongside the simulated CT and CXR
 
 
-A total of 16,949 CT scans of 11,166 patients were used for model development and testing.
-There were ten clinical datasets: RICORD, MosMed,BIMCV-COVID-19 +/- (BIMCV-V2),
+12,844 CT and 25,219 CXR images for COVID-19 diagnosis were collected from 13 multi-center clinical datasets. Models were evaluated using internal, external, and virtually simulated testing cohorts. There were ten clinical datasets: RICORD, MosMed,BIMCV-COVID-19 +/- (BIMCV-V2),
 COVID-CT-MD, CT Images in COVID-19,PleThora, COVID19-CT-dataset, Stony Brook
 University COVID-19 Positive Cases (COVID-19-NY-SBU), A Large-Scale CT and PET/CT Dataset
 for Lung Cancer Diagnosis (Lungs-CT-Dx), and Lung Image Database Consortium / Image Database
@@ -154,18 +155,10 @@ For further assistance, please contact the project maintainers or refer to the p
 
 ## CXR Analysis--/cxr_analysis
 
-
 - `train.py`: training script
 - `predict.py`: predict script
 - `utils.py`: utility fuctions for the train/validation/predict
 
-
-
-
 ## Contact
-
 For any queries or further information, please contact Fakrul Islam Tushar at fakrulislam.tushar@duke.edu.
 
-
-
-## License details
