@@ -22,19 +22,18 @@
 
 ## Datastets
 
-This study ustilized a large cohort of open-access clinical CT and CXR for model developement and evaluation alongside the simulated CT and CXR
-
-
-12,844 CT and 25,219 CXR images for COVID-19 diagnosis were collected from 13 multi-center clinical datasets. Models were evaluated using internal, external, and virtually simulated testing cohorts. There were ten clinical datasets: RICORD, MosMed,BIMCV-COVID-19 +/- (BIMCV-V2),
-COVID-CT-MD, CT Images in COVID-19,PleThora, COVID19-CT-dataset, Stony Brook
+This study ustilized a large cohort of open-access clinical CT and CXR for model developement and evaluation alongside the simulated CT and CXR. 12,844 CT and 25,219 CXR images for COVID-19 diagnosis were collected from 13 multi-center clinical datasets. Models were evaluated using internal, external, and virtually simulated testing cohorts. There were ten clinical datasets: RICORD, MosMed,BIMCV-COVID-19 +/- (BIMCV-V2), COVID-CT-MD, CT Images in COVID-19,PleThora, COVID19-CT-dataset, Stony Brook
 University COVID-19 Positive Cases (COVID-19-NY-SBU), A Large-Scale CT and PET/CT Dataset
 for Lung Cancer Diagnosis (Lungs-CT-Dx), and Lung Image Database Consortium / Image Database
 Resource Initiative (LIDC-IDRI). These ten clinical datasets were united into the U-10 CT Dataset.
 Additionally, simulated data were from the Center for Virtual Imaging Trials CT Dataset, Duke-CVIT-
 CT.
 
+<img src="https://github.com/fitushar/ReviCOVID.github.io/blob/master/static/images/Figure1.png">
 
-<img src="figures/Figure4.png">
+**Physics-based evaluation.** Performance comparison across CT and CXR modalities under varying imaging dose conditions. Error bars represent 95% confidence intervals.
+
+<img src="https://github.com/fitushar/ReviCOVID.github.io/blob/master/static/images/imageresult.png">
 
 
 # CT Analysis -- /ct_analysis
